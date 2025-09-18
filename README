@@ -8,3 +8,15 @@ Nicolas Stock
 Login für NiMa-Contacts:
 Benutzername: Patrick
 Passwort: Geheim
+
+Funktionen:
+▪ Erfassung von Mitarbeitern, Lernenden und Kunden 
+▪ Mutieren von Mitarbeitern,Lernenden und Kunden 
+▪ Aktivieren und deaktivieren von Mitarbeitern, Lernenden und Kunden 
+▪ Löschen von Mitarbeitern, Lernenden und Kunden 
+▪ Automatische Vergabe von Mitarbeiternummern 
+▪ Protokollieren von Notizen in Kundenkontakten inkl. Datum / Historie 
+▪ Suchmöglichkeiten über gespeicherten Informationen (Name, Vorname, Geburtsdatum, Mitarbeiter/Lernender/Kunde) 
+▪ Automatisches Speichern des Datenstamms in JASON-Datei
+▪ Login mit einem User -> Patrick 
+▪ Dashboard mit Kontatkanzahk und Geburtstags Anzeige
