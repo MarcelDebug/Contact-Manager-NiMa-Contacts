@@ -1,0 +1,10 @@
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Release\Contact_Manager.exe.config
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Release\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Release\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.Form1.resources
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Release\Contact_Manager.pdb

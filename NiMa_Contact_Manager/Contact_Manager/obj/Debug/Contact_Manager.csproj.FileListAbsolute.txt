@@ -1,0 +1,197 @@
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager - Kopie\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager_V2.0.0\Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.0.0 - Kopie\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.0.0\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_Manager_V2.1\Contact_Manager_V2.1\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.2\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\OneDrive\Desktop\Contact_ManagerV2.3\Contact_ManagerV2.1\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\Contact_ManagerV2.4\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.exe.config
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\nicol\Downloads\Contact_Manager_Final_Test_V2.5\Contact_Manager_Final_Test_V2.5\Contact_ManagerV2.4\Contact_Manager\obj\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe.config
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\bin\Debug\Contact_Manager.pdb
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Form1.resources
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.LoginForm.resources
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.Properties.Resources.resources
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_.A5B5DA12.Up2Date
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.exe
+C:\Users\marce\source\repos\NiMa_Contact_Manager\Contact_Manager\obj\Debug\Contact_Manager.pdb
